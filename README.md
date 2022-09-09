@@ -14,14 +14,9 @@ Realiza el calculo de Suma, resta, Division y Multiplicacion.
 
 #### Visualiza la App:
 
-### Login
-![](https://github.com/marvin1604/easy-notes/blob/main/app/static/images/log.JPG)
 ### Principal
-![](https://github.com/marvin1604/easy-notes/blob/main/app/static/images/principal1.JPG)
-### Principal 2
-![](https://github.com/marvin1604/easy-notes/blob/main/app/static/images/principal2.JPG)
-### Sign
-![](https://github.com/marvin1604/easy-notes/blob/main/app/static/images/register.JPG)
+![](https://github.com/marvin1604/calculadora_js/blob/main/images/Captura2.JPG)
+
 
 #### Mi carrera en Platzi
 - https://platzi.com/p/walter.rodriguez1992/
